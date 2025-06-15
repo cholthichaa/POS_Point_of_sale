@@ -9,6 +9,8 @@ https://www.figma.com/proto/HFiM1So25tnlTgNUvL7kcP/POS?node-id=2-1097&starting-p
 #### Cashier
 https://www.figma.com/proto/HFiM1So25tnlTgNUvL7kcP/POS?node-id=28-3460&starting-point-node-id=36%3A3703
 
+### User Interface ของระบบ POS
+https://docs.google.com/document/d/1QiV86gmXOmwD9UXEHaRCiJYSR9Z1VHWD26frtTYek4w/edit?usp=sharing
 
 ### ขอบเขตของระบบ
 #### สำหรับ Admin / ผู้จัดการ
