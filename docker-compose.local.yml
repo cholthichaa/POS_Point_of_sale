@@ -1,0 +1,17 @@
+version: '3.2'
+
+services:
+  pos_pg:
+    image: postgres:14.3
+    container_name: pos_pg
+    restart: unless-stopped
+    environment:
+        POSTGRES_USER: pos_user
+        POSTGRES_PASSWORD: pos_password
+        POSTGRES_DB: pos_pg
+        TZ: "UTC"
+        PGTZ: "UTC"
+    ports:
+      - 5432:5432
+    networks:
+      - default
